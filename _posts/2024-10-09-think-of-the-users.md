@@ -232,3 +232,5 @@ the users.
 ---
 
 Welcome to the Art of the App.
+
+---
